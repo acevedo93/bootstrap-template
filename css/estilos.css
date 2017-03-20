@@ -1,0 +1,16 @@
+/*--HEADER*/
+
+.navbar{
+
+	margin-bottom:0;
+}
+.jumbotron	{
+	background-color: #456545;
+	color:white;
+	font-family: helvetica;
+}
+
+.jumbotron .titulo-blog{
+
+	font-size: 3em;
+}
